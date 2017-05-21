@@ -1,10 +1,10 @@
 # BlogApp with react and redux
 
-###Getting Started###
+## Getting Started
 
 ```
 	> git clone https://github.com/yogieputra8/BlogApp.git
-	> cd ReduxSimpleStarter
+	> cd BlogApp
 	> npm install
 	> npm start
 ```
